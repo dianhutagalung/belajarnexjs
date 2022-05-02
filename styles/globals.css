@@ -1,3 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
 html,
 body {
   padding: 0;
@@ -19,3 +25,5 @@ a {
   color: darkgray;
   text-align: center;
 }
+
+
